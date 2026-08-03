@@ -1,0 +1,1 @@
+# aws-T4-Automated-Image-Resizer
